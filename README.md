@@ -29,3 +29,4 @@ chmod +x beamai.AppImage
 ./beamai.AppImage &
 ```
 
+Have Fun!
