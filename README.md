@@ -2,18 +2,18 @@
 
 ### Arch Linux
 ```bash
-git clone https://github.com
+git clone https://github.com/m4mps/beam-bin
 cd beam-bin
 makepkg -si
 ```
 
 ### Ubuntu / Debian
 ```bash
-curl -L -o beamai.deb "https://githubusercontent.com" && sudo apt install ./beamai.deb && rm beamai.deb
+curl -L -o beamai.deb "https://github.com/m4mps/beam-bin/raw/main/beamai_0.1.0_amd64.deb" && sudo apt install ./beamai.deb && rm beamai.deb
 ```
 
 ### Fedora
 ```bash
-sudo dnf install "https://githubusercontent.com"
+sudo dnf install "https://github.com/m4mps/beam-bin/raw/main/beamai-0.1.0-1.x86_64.rpm"
 ```
 
