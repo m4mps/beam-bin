@@ -2,8 +2,7 @@
 
 ### Windows
 ```text
-You can find the official Windows installer (beamai.exe) under "Releases" on the right side of this GitHub page, or download it directly from this link:
-https://github.com/m4mps/beam-bin/releases/tag/v0.1.0
+You can find the official Windows installer under "Releases".
 ```
 
 ### Arch Linux
