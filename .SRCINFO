@@ -1,0 +1,18 @@
+pkgbase = beam-bin
+	pkgdesc = BeamAI desktop application
+	pkgver = 0.1.0
+	pkgrel = 1
+	url = https://github.io
+	arch = x86_64
+	license = custom
+	depends = glibc
+	provides = beamai
+	conflicts = beamai
+	source = beamai_0.1.0_amd64.deb
+	source = BeamIcon.desktop
+	source = BeamIcon.png
+	sha256sums = 313537ec965f44c31512614f73f644748ba2396a95ff544c5790395e6648b67f
+	sha256sums = 990262a8911b381def8ba483014e0420bb8cf093e3cfabc5263b99103dce68db
+	sha256sums = 8be7b669b8f08009c59b76212ee46ea5077bf79598defe8da2cc82d527b29fcd
+
+pkgname = beam-bin
