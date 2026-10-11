@@ -17,3 +17,10 @@ curl -L -o beamai.deb "https://github.com/m4mps/beam-bin/raw/main/beamai_0.1.0_a
 sudo dnf install "https://github.com/m4mps/beam-bin/raw/main/beamai-0.1.0-1.x86_64.rpm"
 ```
 
+### Universal Linux (AppImage)
+```bash
+curl -L -o beamai.AppImage "https://github.com/releases/download/v0.1.0/beamai_0.1.0_amd64.AppImage"
+chmod +x beamai.AppImage
+./beamai.AppImage &
+```
+
