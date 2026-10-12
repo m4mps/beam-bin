@@ -5,6 +5,11 @@
 You can find the official Windows installer under "Releases".
 ```
 
+### Android
+```text
+You can find the offical APK under "Releases".
+```
+
 ### Arch Linux
 ```bash
 git clone https://github.com/m4mps/beam-bin
