@@ -11,7 +11,7 @@ conflicts=("beamai")
 source=("beamai_0.1.0_amd64.deb"
         "BeamIcon.desktop"
         "beamai.png")
-sha256sums=('313537ec965f44c31512614f73f644748ba2396a95ff544c5790395e6648b67f'
+sha256sums=('67c8401cdadab76ef0ea28367debaff074a087487c24727c144bc2bdb7a10f82'
             '990262a8911b381def8ba483014e0420bb8cf093e3cfabc5263b99103dce68db'
             '8be7b669b8f08009c59b76212ee46ea5077bf79598defe8da2cc82d527b29fcd')
 
