@@ -3,64 +3,7 @@ Version=1.0
 Type=Application
 Name=BeamAI
 Comment=BeamAI desktop application
-Exec=env ELECTRON_OZONE_PLATFORM_HINT=x11 beamai --disable-gpu-sandbox
-Path=/usr/bin
-Icon=beamai
-Terminal=false
-StartupWMClass=beamai
-Categories=Utility;
-
-++[Desktop Entry]
-Version=1.0
-Type=Application
-Name=BeamAI
-Comment=BeamAI desktop application
-Exec=fish -c "beamai &"
-Path=/usr/bin
-Icon=BeamIcon
-Terminal=false
-StartupWMClass=beamai
-Categories=Uti
-[Desktop Entry]
-Version=1.0
-Type=Application
-Name=BeamAI
-++Comment=BeamAI desktop application
-Exec=fish -c "beamai &"
-Path=/usr/bin
-Icon=BeamIcon
-Terminal=false
-StartupWMClass=beamai
-Categories=Utility;
-[Desktop Entry]
-Version=1.0
-Type=Application
-Name=BeamAI
-Comment=BeamAI desktop application
-Exec=fish -c "beamai --disable-features=TouchTextSelection &"
-Path=/usr/bin
-Icon=BeamIcon
-Terminal=false
-StartupWMClass=beamai
-Categories=Utility;
-[Desktop Entry]
-Version=1.0
-Type=Application
-Name=BeamAI
-Comment=BeamAI desktop application
-Exec=fish -c "beamai --blink-features=UserSelectNone &"
-Path=/usr/bin
-Icon=BeamIcon
-Terminal=false
-StartupWMClass=beamai
-Categories=Utility;
-[Desktop Entry]
-Version=1.0
-Type=Application
-Name=BeamAI
-Comment=BeamAI desktop application
-Exec=fish -c "beamai --user-stylesheet=$HOME/.beamai-style.css &"
-Path=/usr/bin
+Exec=env WEBKIT_DISABLE_DMABUF_RENDERER=1 /usr/bin/beamai
 Icon=BeamIcon
 Terminal=false
 StartupWMClass=beamai
