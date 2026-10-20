@@ -10,6 +10,11 @@ You can find the official Windows installer under "Releases".
 You can find the offical APK under "Releases".
 ```
 
+### Iphone
+```text
+You can find the offical IPA under "Releases".
+```
+
 ### Arch Linux
 ```bash
 git clone https://github.com/m4mps/beam-bin
