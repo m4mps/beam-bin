@@ -7,12 +7,12 @@ You can find the official Windows installer under "Releases".
 
 ### Android
 ```text
-You can find the offical APK under "Releases".
+You can find the official APK under "Releases".
 ```
 
 ### Iphone
 ```text
-You can find the offical IPA under "Releases".
+You can find the official IPA under "Releases".
 ```
 
 ### Arch Linux
